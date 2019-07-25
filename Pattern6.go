@@ -1,9 +1,9 @@
 /*
+A
+AB
+ABC
+ABCD
 ABCDE
-BCDE
-CDE
-DE
-E
 */
 package main
 import(
